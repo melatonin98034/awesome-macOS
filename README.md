@@ -208,6 +208,7 @@
 
 ### Productivity
 
+- [AllInOneIME](https://allinoneime.com) - Input method that adds AI commands such as @improve, @translate and @question to every text field. ![Freeware][Freeware Icon]
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon]
